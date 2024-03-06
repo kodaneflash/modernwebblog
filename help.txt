@@ -1,0 +1,9 @@
+This code version is the lastest code version of all, if you want to have a feature where only admins can write the blogs unzip the "only admins can write blogs.zip" and continue with that. If you want everyone should write the blogs, unzip the other one.
+
+( 1 thing to remember that in admin case everyone will have admin false by default which means they can't write blog, if you want to change anyone's admin value from false to true you have to do it manually in your MongoDB, to make that particualr account an admin in order to write blogs )
+
+Follow the PDF in order to setup your project to run.
+
+If you want to see how to host this online for free. Watch [ Part 6 ] of MERN Blogging website series, at the end I have a section talking about this.
+
+If you need any help feel free to email me on business.modernweb@gmail.com
